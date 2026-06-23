@@ -1,8 +1,8 @@
-# Projeto: Algoritmo de Busca em Largura (BFS) em C
+# Algoritmo de Busca em Largura (BFS) em C
 
 Este projeto tem como objetivo a implementação do algoritmo de **Busca em Largura (Breadth-First Search - BFS)** utilizando a linguagem de programação C. O sistema foi desenvolvido com foco em modularidade, organização de arquivos e automação do processo de compilação.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 * Implementação do algoritmo BFS para travessia de grafos.
 * Estrutura de dados modular (separação entre cabeçalhos e implementação).
 * Automação de compilação utilizando `Makefile`.
