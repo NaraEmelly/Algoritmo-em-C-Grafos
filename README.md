@@ -16,7 +16,7 @@ Algoritmo-em-C-Grafos/
 │   ├── grafo.c          # Implementação lógica do grafo e BFS
 │   └── main.c           # Ponto de entrada e teste do algoritmo
 ├── Makefile             # Regras para compilação automatizada
-└── README.md            # Documentação
+└── README.md            # Readme.md
 └── Pesquisa_Grafos.pdf  # Pesquisa feita sobre Grafos
 ```
 ## Como Compilar e Executar
