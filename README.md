@@ -30,7 +30,7 @@ ou
 ```
 gcc -Iinclude src/main.c src/grafo.c -o grafo_bfs
 ```
-##2. Executar o Programa
+##2. Executar o Programa ( caso use o makefile )
 ```
 .\grafo_bfs.exe 
 ```
