@@ -17,7 +17,7 @@ Algoritmo-em-C-Grafos/
 │   └── main.c           # Ponto de entrada e teste do algoritmo
 ├── Makefile             # Regras para compilação automatizada
 └── README.md            # Documentação
-└── Pesquisa Grafos.pdf  # Pesquisa feita sobre Grafos
+└── Pesquisa_Grafos.pdf  # Pesquisa feita sobre Grafos
 ```
 ## Como Compilar e Executar
 Para compilar e gerar o executável, certifique-se de ter o GCC instalado em seu ambiente. Utilize o terminal na pasta raiz do projeto e siga os passos:
