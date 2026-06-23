@@ -48,5 +48,7 @@ gcc -Iinclude src/main.c src/grafo.c -o grafo_bfs
 
 - Ferramenta de Build: Makefile
 
+- Word 
+
 # Autor : Nayara Emelly Pereira Mendonça
 Desenvolvido como parte da pesquisa acadêmica sobre Teoria dos Grafos.
